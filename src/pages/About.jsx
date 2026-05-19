@@ -12,25 +12,24 @@ function About() {
         </p>
 
         <p style={textStyle}>
-          В проекте реализованы основные возможности современного frontend-сайта:
-          маршрутизация, работа с API, fetch-запросы, POST-запрос, корзина и
-          сохранение данных в localStorage.
+          «…И пусть они прикрывают своими покрывалами вырез на груди…»
+— Сура «Ан-Нур», 24:31 ✨
         </p>
 
         <div style={featuresStyle}>
           <div style={featureStyle}>
-            <b>React</b>
-            <span>компоненты и props</span>
+            <b>🤍 Скромность</b>
+            <span>— Настоящая красота не нуждается в лишнем внимании.</span>
           </div>
 
           <div style={featureStyle}>
-            <b>API</b>
-            <span>получение товаров</span>
+            <b>🌙 Хиджаб</b>
+            <span>— Хиджаб — это не ограничение, а достоинство.</span>
           </div>
 
           <div style={featureStyle}>
-            <b>localStorage</b>
-            <span>сохранение корзины</span>
+            <b>✨ Нур</b>
+            <span>— Женщина с чистым сердцем светит сильнее любых украшений</span>
           </div>
         </div>
       </section>
